@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1651661870 source:d:\free_time_learning\kata\simple_pig_latin\simple_pig_latin\main.cpp
+	<iostream>
+	<string>
+	<cstring>
+

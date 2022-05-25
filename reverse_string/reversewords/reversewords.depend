@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1639423350 source:d:\free_time_learning\kata\reverse_string\reversewords\main.c
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+

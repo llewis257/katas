@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1652856485 source:d:\free_time_learning\kata\binary_addition\binary_add\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
