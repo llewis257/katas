@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1654441402 source:d:\free_time_learning\kata\roman_numerals_decoder\roman_numerals2int\main.cpp
+	<iostream>
+	<string>
+
